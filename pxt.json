@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "MakerBit-LCD1602": "github:1010technologies/pxt-makerbit-lcd1602#v1.8.10"
     },
     "files": [
         "main.blocks",
